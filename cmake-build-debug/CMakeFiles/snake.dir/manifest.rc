@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/ecole/git/c++/projet2/snake/cmake-build-debug/CMakeFiles/snake.dir/embed.manifest"

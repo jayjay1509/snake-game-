@@ -1,0 +1,3 @@
+C:/ecole/git/c++/projet2/snake/cmake-build-debug/CMakeFiles/snake.dir
+C:/ecole/git/c++/projet2/snake/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/ecole/git/c++/projet2/snake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
